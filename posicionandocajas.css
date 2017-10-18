@@ -1,0 +1,57 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+.rojo {
+	background: red;
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	position: relative;
+}
+.morado {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	background: purple;
+	position: absolute;
+	top: 180px;
+	left: 80px;
+}
+.amarillo {
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+	background: yellow;
+	position: absolute;
+	top: 180px;
+	left: 80px;
+}
+
+.azul {
+	background: blue;
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	margin-top: 5px;
+}
+.verde {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	background: green;
+	position: absolute;
+	top: 485px;
+	left: 83px;
+}
+.negro {
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+	background: black;
+	position: absolute;
+	top: 410px;
+	left: 8px;
+}
+
